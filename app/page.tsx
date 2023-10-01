@@ -29,6 +29,7 @@ const Home = async () => {
 
             <p className="mt-6">
               Powerful, self-serve product and growth analytics to help you convert, engage, and retain more.
+             <br/> Searched Product will get listed in the below Trending Section.
             </p>
 
             <Searchbar/>
